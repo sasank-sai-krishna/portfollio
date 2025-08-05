@@ -185,7 +185,7 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "MY-QUIZ",
+    title: "my-quiz",
     date: "NOV 2024 - NOV 2024",
     description:
       "Developed an Interactive Quiz Application using React.js, featuring dynamic questions, real-time score tracking, intuitive navigation, and a responsive, visually appealing design.",
@@ -242,6 +242,22 @@ export const projects = [
     github: "https://github.com/sasank-sai-krishna/zerodha",
     webapp: "https://zerodha-inky.vercel.app/",
   },
+
+   {
+    id: 3,
+    title: "Weather",
+    date: "Jan 2025 - Jan 2025",
+    description:
+      "A responsive React-based weather app that fetches real-time weather data for any city using an open weather API.",
+    image:
+      "/WEATHER.png",
+    tags: [ "React"],
+    category: "web app",
+    github: "https://github.com/sasank-sai-krishna/weather",
+    webapp: "https://weather-alpha-bay.vercel.app/",
+  },
+
+ 
   
 ];
 
